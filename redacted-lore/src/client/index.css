@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom fonts or other styles go below here */
+body {
+  background-color: #1a1a1b;
+  color: white;
+  font-family: sans-serif;
+}

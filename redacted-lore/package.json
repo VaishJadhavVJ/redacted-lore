@@ -1,0 +1,31 @@
+{
+  "name": "redacted-lore",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "dev": "devvit dev",
+    "build": "devvit build",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@devvit/public-api": "0.10.16",
+    "framer-motion": "11.2.10",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@devvit/cli": "0.10.16",
+    "@devvit/tsconfig": "0.10.16",
+    "@tailwindcss/vite": "^4.1.18",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^5.1.4",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "typescript": "5.4.5",
+    "vite": "5.2.11",
+    "vitest": "1.6.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "redacted-lore",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "devvit dev",
+    "build": "devvit build",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@devvit/public-api": "0.11.2",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "framer-motion": "11.2.10"
+  },
+  "devDependencies": {
+    "@devvit/cli": "0.11.2",
+    "@devvit/tsconfig": "0.11.2",
+    "typescript": "5.4.5",
+    "vite": "5.2.11",
+    "vitest": "1.6.0"
+  }
+}
